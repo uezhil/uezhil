@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @uezhil
 - 👀 I’m interested in web/cloud & art stuff...
-- 🌱 I’m currently learning agile/scrum & watercolors :)
+- 🌱 I’m currently enjoying agile/scrum & watercolors :)
 - 💞️ I’m looking to collaborate on cloud...
 - 📫 How to reach me uezhil@gmail.com
 
